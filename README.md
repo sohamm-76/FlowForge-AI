@@ -180,22 +180,6 @@ When submitting a workflow, the backend returns:
 
 ---
 
-## 📸 Screenshots
-
-### Workflow Builder
-
-*Add screenshot here*
-
-### Dynamic Text Node
-
-*Add screenshot here*
-
-### Pipeline Validation
-
-*Add screenshot here*
-
----
-
 ## 🧠 Architecture Highlights
 
 ### Frontend
